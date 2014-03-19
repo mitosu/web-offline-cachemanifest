@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01-mar-2014, 14:49:12
+    Author     : Mitosu
+*/
+
+.texto h1{
+    color: blueviolet;
+}
+
+.texto{
+    background-color: bisque;
+}
+
+.header img{
+    width: 300px;
+    height: 150px;
+}
